@@ -21,7 +21,7 @@
 ```yaml
 name: Sav1kx
 role: Full Stack Developer
-location: Russia 🇷🇺
+location: Russia
 interests:
   - Web Development
   - Software Engineering
@@ -84,6 +84,7 @@ motto: "Turning ideas into reality through code."
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sav1kx)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sav1kx)
 
 </div>
 
