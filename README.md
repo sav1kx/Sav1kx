@@ -1,10 +1,14 @@
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2500&pause=1000&color=6D00CC&center=true&vCenter=true&width=650&height=110&lines=SAV1KX" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9400FF&center=true&vCenter=true&width=500&height=40&lines=FULL+STACK+DEVELOPER;CODE.+CREATE.+INNOVATE." />
+### ⚡ FULL STACK DEVELOPER ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=40&lines=Code.+Create.+Innovate.;Welcome+to+my+GitHub+Profile.;Building+the+Future+with+Code." />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sav1kx)
 
 </div>
 
