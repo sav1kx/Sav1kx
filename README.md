@@ -20,7 +20,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
 const sav1kx = {
     name: "Sav1kx",
     role: "Student & Aspiring Full-Stack Developer",
@@ -31,13 +30,12 @@ const sav1kx = {
         "Building Web Applications"
     ],
     currentlyLearning: [
+        "C",
         "JavaScript",
-        "React",
-        "Node.js"
+        "Python"
     ],
     mindset: "Learn. Build. Improve. Repeat."
 };
-```
 
 - 🌱 Currently learning Full-Stack Development.
 - 💻 Exploring modern web technologies.
