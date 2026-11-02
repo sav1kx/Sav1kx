@@ -37,13 +37,12 @@ interests:
   - Software Engineering
   - Problem Solving
   - Technology & Innovation
-motto: "Turning ideas into reality through code."
 ```
 
 - 💻 Passionate about building modern applications.
 - 🚀 Exploring new technologies and improving my skills.
 - 🧠 Always learning, always creating.
-- ⚡ Focused on writing clean and efficient code.
+- ⚡ Focused on writing clean, optimized, and efficient code.
 
 ---
 
