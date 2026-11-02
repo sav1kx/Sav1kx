@@ -1,13 +1,20 @@
 
 <div align="center">
 
-# ⚡ SAV1KX
 
-### `Full Stack Developer | Code • Create • Innovate`
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Building+the+Future+with+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=100&lines=SAV1KX;SAV1KX;SAV1KX" />
+
+### ⚡ FULL STACK DEVELOPER ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=40&lines=Code.+Create.+Innovate.;Welcome+to+my+GitHub+Profile.;Building+the+Future+with+Code." />
 
 <br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sav1kx)
+
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sav1kx-181717?style=for-the-badge&logo=github)](https://github.com/Sav1kx)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sav1kx&style=for-the-badge&color=8A2BE2)](https://github.com/Sav1kx)
