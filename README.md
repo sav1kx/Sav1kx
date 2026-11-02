@@ -21,7 +21,7 @@
 ```yaml
 name: Sav1kx
 role: Full Stack Developer
-location: Earth 🌍
+location: Russia 🇷🇺
 interests:
   - Web Development
   - Software Engineering
