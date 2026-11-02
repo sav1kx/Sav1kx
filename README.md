@@ -47,7 +47,7 @@ motto: "Turning ideas into reality through code."
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 
 </div>
 
